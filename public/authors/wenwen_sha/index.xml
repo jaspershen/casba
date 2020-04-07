@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CASBA</title>
+    <link>/authors/wenwen_sha/</link>
+      <atom:link href="/authors/wenwen_sha/index.xml" rel="self" type="application/rss+xml" />
+    <description>CASBA</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© CASBA 2020</copyright>
+    <image>
+      <url>/authors/wenwen_sha/avatar_hud7dca7f11ee8a965a8526a6b60fc3641_349418_270x270_fill_lanczos_center_2.png</url>
+      <title>CASBA</title>
+      <link>/authors/wenwen_sha/</link>
+    </image>
+    
+  </channel>
+</rss>

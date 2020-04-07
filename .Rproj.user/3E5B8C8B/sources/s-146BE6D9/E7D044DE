@@ -1,24 +1,24 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1586302143398.000,
+    "created" : 1586303590607.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "0",
-    "id" : "858D3D21",
-    "lastKnownWriteTime" : 1586302516,
-    "last_content_update" : 1586302516598,
-    "path" : "~/github/casba/content/home/slider.md",
-    "project_path" : "content/home/slider.md",
+    "id" : "E7D044DE",
+    "lastKnownWriteTime" : 1586303738,
+    "last_content_update" : 1586303738797,
+    "path" : "~/github/casba/content/authors/wenwen_sha/_index.md",
+    "project_path" : "content/authors/wenwen_sha/_index.md",
     "properties" : {
-        "cursorPosition" : "9,15",
+        "cursorPosition" : "18,20",
         "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 11,
+    "relative_order" : 12,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "markdown"
