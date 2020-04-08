@@ -18,7 +18,7 @@ name: 李杰 博士
 organizations:
 - name: Stanford University
   url: "https://www.stanford.edu/"
-role: 博士后
+role:
 social:
 social:
 - icon: linkedin

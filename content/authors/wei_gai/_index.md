@@ -19,7 +19,7 @@ interests:
 name: 盖伟
 organizations:
 - name: Texas A&M University
-role: 博士在读
+role: 
 social:
 - icon: envelope
   icon_pack: fas

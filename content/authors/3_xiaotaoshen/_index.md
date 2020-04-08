@@ -20,7 +20,7 @@ name: 申小涛 博士
 organizations:
 - name: Stanford University
   url: "https://www.stanford.edu/"
-role: 博士后
+role:
 social:
 - icon: envelope
   icon_pack: fas

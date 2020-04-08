@@ -19,7 +19,7 @@ name: 胡天岑 博士
 organizations:
 - name: ViiV Healthcare (GSK)
   url: "https://viivhealthcare.com/"
-role: Principal Scientist
+role: 
 social:
 social:
 - icon: envelope

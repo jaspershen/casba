@@ -20,7 +20,7 @@ name: 沙文文 博士
 organizations:
 - name: Sanofi
   url: "https://www.sanofi.us/"
-role: Senior Scientist
+role:
 social:
 - icon: envelope
   icon_pack: fas
