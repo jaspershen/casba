@@ -38,7 +38,6 @@ social:
 superuser: true
 user_groups:
 - Postdoctoral
-- Academic
 - Industry
 - Team
 ---
