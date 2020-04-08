@@ -4,6 +4,8 @@
 
 # Configure the English version of the site.
 [en]
+#[zh]
+# languageCode = "zh-Hans"
   languageCode = "en-us"
   # contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
