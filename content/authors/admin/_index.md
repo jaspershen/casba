@@ -21,13 +21,13 @@ authors:
 # - name: Stanford University
 #   url: "https://www.stanford.edu/"
 # role: Postdoctoral Research Fellow
-# social:
+social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: weixin
-  icon_pack: fas
-  link: 'file/casba_wechat.jpg'
+  icon_pack: fab
+  link: 'image/casba_wechat.jpeg'
 
 superuser: true
 user_groups:
