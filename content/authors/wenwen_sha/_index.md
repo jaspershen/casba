@@ -1,45 +1,40 @@
 ---
 authors:
-- wenwensha
-bio: Metabolomics, Multi-omics, Bioinformatics, Healthcare.
+- wenwen_sha
+bio: 免疫学, 抗体研发, pre-IND filing经验, Healthcare.
 education:
   courses:
-  - course: PhD
-    institution: Chinese Academy of Sciences
-    year: 2013-2018
+  - course: phd
+    institution: 中国科学院上海巴斯德研究所
+    year: 2010-2015
   - course: BSc
-    institution: Inner Mongolia University
-    year: 2009-2013
-email: "shenxt@stanford.edu"
+    institution: 中国药科大学
+    year: 2006-2010
+email: "wenwensha@gmail.com"
 interests:
-- Bioinformatics
-- Metabolomics
-- Systems Biology
-- Biomarker
-name: Wenwen Sha PhD
+- 生物医药研发
+- 双抗多抗研发
+- Nanobody研发
+- 药物申请
+name: 沙文文 博士
 organizations:
-- name: Stanford University
-  url: "https://www.stanford.edu/"
-role: 会长
-social:
+- name: Sanofi
+  url: "https://www.sanofi.us/"
+role: Senior Scientist
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/shenxt/
+  link: https://www.linkedin.com/feed/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?hl=en&user=3TK9yz8AAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/jaspershen
-superuser: true
+  link: https://scholar.google.com/citations?hl=en&user=JkhONz8AAAAJ
+superuser: false
 user_groups:
 - 会长
 ---
 
-I am now a postdoctoral research fellow at Stanford University. I am broadly interested in Metabolomics, Multi-omics, Biostatistics, Systems Biology, and Bioinformatics, and their application in healthcare.
+2010年毕业于中国药科大学生命科学学院，而后进入中国科学院上海巴斯德研究所攻读免疫学博士学位，博士导师为刘勇军教授和当时的孙兵所长，2012年到2015年于刘勇军教授的实验室从事固体免疫学研究并完成博士课题成功发表，并与2015年获得学位。2015年2月进入阿斯利康做博士后，主要从事开发针对自身免疫性疾病SLE的抗体。于2016年在美国Sanofi 担任Senior Scientist，参与多个肿瘤双抗或者多抗/Nanobody研发的课题，以及参与课题pre-IND和IND的申请。因为在Sanofi参与多个课题的研究，对药物研发和如何推荐到临床研究具有浓厚的兴趣，同时也真正实现可以帮助更多人的愿望，赋予了工作更多的意义。
 
-My research focuses on the development of bioinformatic algorithms and tools for large-scale metabolomics as well as its application in discovering new biomarkers related to human diseases. I have developed several algorithms and tools in the past five years. The first algorithm was [MetNormalizer](https://jaspershen.github.io/MetNormalizer/), which is a machine learning-based algorithm for data normalization and integration of large-scale metabolomics. Then I developed a web-based tool, [MetFlow](http://metflow.zhulab.cn/), aiming to provide a comprehensive pipeline for data cleaning and statistical analysis of large-scale metabolomics. The most important algorithm I have developed is called [MetDNA](http://metdna.zhulab.cn/), which is a novel algorithm for metabolite identification and dysregulated pathway analysis in untargeted metabolomics.
