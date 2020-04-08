@@ -24,7 +24,7 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jie-li-93960170/
-superuser: true
+superuser: false
 user_groups:
 - Vice_president
 ---

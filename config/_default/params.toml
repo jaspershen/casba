@@ -37,7 +37,7 @@ site_type = "Organization"
 
 # Local business type (optional)
 # If you entered "LocalBusiness" above, choose the type of business from https://schema.org/LocalBusiness#subtypes
-local_business_type = ""
+local_business_type = "Chinese Academy of Sciences-Biomedical Alumni in U.S.A"
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
@@ -81,7 +81,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "shenxt1990@163.com"
+email = "casbiomedicalalumni@gmail.com"
 #phone = "888 888 88 88"
 
 # Address

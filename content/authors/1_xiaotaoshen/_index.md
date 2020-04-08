@@ -35,7 +35,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/jaspershen
-superuser: true
+superuser: fasle
 user_groups:
 - Vice_president
 ---
