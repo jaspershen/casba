@@ -27,7 +27,7 @@ social:
   link: '#contact'
 - icon: weixin
   icon_pack: fab
-  link: 'image/casba_wechat.jpeg'
+  link: https://www.shenxt.info/files/casba_wechat.jpeg
 
 superuser: true
 user_groups:
