@@ -37,7 +37,7 @@ social:
   link: https://github.com/jaspershen
 superuser: true
 user_groups:
-- President
+- 会长
 ---
 
 I am now a postdoctoral research fellow at Stanford University. I am broadly interested in Metabolomics, Multi-omics, Biostatistics, Systems Biology, and Bioinformatics, and their application in healthcare.
