@@ -21,10 +21,10 @@ authors:
 # - name: Stanford University
 #   url: "https://www.stanford.edu/"
 # role: Postdoctoral Research Fellow
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'
+# social:
+# - icon: envelope
+#   icon_pack: fas
+#   link: '#contact'
 
 superuser: true
 user_groups:

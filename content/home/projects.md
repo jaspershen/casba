@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Projects"
-subtitle = ""
+title = "校友项目"
+subtitle = "校友的项目,如常见的公司等"
 
 [content]
   # Page type to display. E.g. project.

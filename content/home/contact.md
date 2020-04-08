@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
-title = "Contact"
-subtitle = "If you want to join us, please do not hesitate to email us!"
+title = "联系我们"
+subtitle = "如果您是中科院毕业校友并愿意加入我们,请发邮件联系我们!"
 
 # Automatically link email and phone?
 autolink = true

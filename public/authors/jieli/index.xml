@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jieli | CASBA</title>
+    <link>/authors/jieli/</link>
+      <atom:link href="/authors/jieli/index.xml" rel="self" type="application/rss+xml" />
+    <description>jieli</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© CASBA 2020</copyright>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>jieli</title>
+      <link>/authors/jieli/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/jie_li/jieli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/jie_li/jieli/</guid>
+      <description>&lt;p&gt;我现在在美国斯坦福大学医学院做博士后.研究方向为脆性X染色体综合征（Fragile X Syndrom, FXS）患者学习和记忆障碍的发生机制及治疗方法.博士期间的研究方向为肿瘤药理学.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -20,7 +20,7 @@ name: Wenwen Sha PhD
 organizations:
 - name: Stanford University
   url: "https://www.stanford.edu/"
-role: Postdoctoral Research Fellow
+role: 会长
 social:
 social:
 - icon: envelope
@@ -37,9 +37,7 @@ social:
   link: https://github.com/jaspershen
 superuser: true
 user_groups:
-- Postdoctoral
-- Industry
-- Team
+- President
 ---
 
 I am now a postdoctoral research fellow at Stanford University. I am broadly interested in Metabolomics, Multi-omics, Biostatistics, Systems Biology, and Bioinformatics, and their application in healthcare.

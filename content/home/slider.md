@@ -16,14 +16,14 @@ height = "calc(100vh - 70px)"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Hello, Welcome to CASBA"
+  title = "欢迎加入CASBA!"
   content = "作为一个以服务校友乃至服务社会为宗旨的非官方组织，秉承博学笃志格物明德的理念，CASBA将充分整合校友资源,致力于在中美之间、在创业校友和风险资本之间、在产业界与学术界之间、在不同职业阶段的校友之间构建一个交流的平台，促进全体校友的共同进步。逝者如斯夫，不舍昼夜。本着美好的愿望、初心和奉献的精神，我们将砥砺前行。"
   align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "headers/cas.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
@@ -35,12 +35,12 @@ height = "calc(100vh - 70px)"
   # cta_icon = "graduation-cap"
 
 [[item]]
-  title = "News"
+  title = "CASBA建立了!"
   content = "作为一个以服务校友乃至服务社会为宗旨的非官方组织，秉承博学笃志格物明德的理念，CASBA将充分整合校友资源,致力于在中美之间、在创业校友和风险资本之间、在产业界与学术界之间、在不同职业阶段的校友之间构建一个交流的平台，促进全体校友的共同进步。逝者如斯夫，不舍昼夜。本着美好的愿望、初心和奉献的精神，我们将砥砺前行。"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "headers/cas.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "headers/cas2.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
 [[item]]
@@ -49,6 +49,6 @@ height = "calc(100vh - 70px)"
   align = "left"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "headers/cas.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "headers/cas3.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 +++

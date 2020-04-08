@@ -1,26 +1,26 @@
 ---
 authors:
 - xiaotaoshen
-bio: Metabolomics, Multi-omics, Bioinformatics, Healthcare.
+bio: 代谢组学, Multi-omics, 生物信息, Healthcare.
 education:
   courses:
   - course: PhD
-    institution: Chinese Academy of Sciences
+    institution: 中国科学院生物与化学交叉研究中心
     year: 2013-2018
   - course: BSc
-    institution: Inner Mongolia University
+    institution: 内蒙古大学
     year: 2009-2013
 email: "shenxt@stanford.edu"
 interests:
-- Bioinformatics
-- Metabolomics
+- 生物信息
+- 代谢组学
 - Systems Biology
 - Biomarker
-name: Xiaotao Shen PhD
+name: 申小涛 博士
 organizations:
 - name: Stanford University
   url: "https://www.stanford.edu/"
-role: Postdoctoral Research Fellow
+role: 副会长
 social:
 social:
 - icon: envelope
@@ -37,12 +37,9 @@ social:
   link: https://github.com/jaspershen
 superuser: true
 user_groups:
-- Postdoctoral
-- Academic
-- Industry
-- Team
+- Vice_president
 ---
 
-I am now a postdoctoral research fellow at Stanford University. I am broadly interested in Metabolomics, Multi-omics, Biostatistics, Systems Biology, and Bioinformatics, and their application in healthcare.
+我现在在美国斯坦福大学医学院做博士后.感兴趣的研究方向为代谢组学数据分析,多组学数据分析,生物统计,系统生物学以及生物信息学.当然,这些都是工具,最终还是希望能够利用这些工具用于人类健康的发展.
 
-My research focuses on the development of bioinformatic algorithms and tools for large-scale metabolomics as well as its application in discovering new biomarkers related to human diseases. I have developed several algorithms and tools in the past five years. The first algorithm was [MetNormalizer](https://jaspershen.github.io/MetNormalizer/), which is a machine learning-based algorithm for data normalization and integration of large-scale metabolomics. Then I developed a web-based tool, [MetFlow](http://metflow.zhulab.cn/), aiming to provide a comprehensive pipeline for data cleaning and statistical analysis of large-scale metabolomics. The most important algorithm I have developed is called [MetDNA](http://metdna.zhulab.cn/), which is a novel algorithm for metabolite identification and dysregulated pathway analysis in untargeted metabolomics.
+本科期间基本上什么都没做.真正的研究是从博士期间开始的.主要集中于大规模代谢组学的数据分析方法开发.一个算法叫做MetNormalizer,基于支持向量机的数据标准化的方法.第二个工具叫做MetFlow,是一个网页版的软件,可以进行大规模代谢组学的数据清洗到统计分析.第三工具叫做MetDNA,可以用于代谢物鉴定可紊乱网络分析的网络工具.
