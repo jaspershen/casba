@@ -26,7 +26,7 @@ social:
   link: https://www.linkedin.com/in/jie-li-93960170/
 superuser: false
 user_groups:
-- Vice_president
+- 副会长
 ---
 
 我现在在美国斯坦福大学医学院做博士后.研究方向为脆性X染色体综合征（Fragile X Syndrom, FXS）患者学习和记忆障碍的发生机制及治疗方法.博士期间的研究方向为肿瘤药理学.
