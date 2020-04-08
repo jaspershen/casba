@@ -24,20 +24,15 @@
   weight = 40
 
 [[main]]
-  name = "新闻"
-  url = "news/"
-  weight = 60
-
-[[main]]
-  name = "博客"
-  url = "post/"
+  name = "博客&新闻"
+  url = "#posts"
   weight = 70
 
 [[main]]
   name = "联系我们"
   url = "#contact"
   weight = 80
-
+  
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]

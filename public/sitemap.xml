@@ -18,8 +18,13 @@
   </url>
   
   <url>
+    <loc>/news/</loc>
+    <lastmod>2020-04-07T22:30:58-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
-    <lastmod>2020-04-07T16:37:39-07:00</lastmod>
+    <lastmod>2020-04-07T22:30:58-07:00</lastmod>
   </url>
   
   <url>
@@ -29,42 +34,42 @@
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-04-07T21:45:28-07:00</lastmod>
+    <lastmod>2020-04-07T22:30:58-07:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2020-04-07T16:37:39-07:00</lastmod>
+    <lastmod>2020-04-07T22:30:58-07:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/news/</loc>
-    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-07T22:30:58-07:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/news/</loc>
-    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/news/</loc>
-    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-07T22:30:58-07:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2020-04-07T16:37:39-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/xiaotaoshen/</loc>
-    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-07T22:30:58-07:00</lastmod>
   </url>
   
   <url>
     <loc>/news/creation/</loc>
+    <lastmod>2020-04-07T22:30:58-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/creation/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/writing-technical-content/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -93,6 +98,11 @@
   </url>
   
   <url>
+    <loc>/news/jupyter/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/jupyter/</loc>
     <lastmod>2020-04-07T16:37:39-07:00</lastmod>
   </url>
@@ -104,6 +114,11 @@
   
   <url>
     <loc>/slides/example/</loc>
+    <lastmod>2020-04-07T16:37:39-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/xiaotaoshen/</loc>
     <lastmod>2020-04-07T16:37:39-07:00</lastmod>
   </url>
   
@@ -150,6 +165,11 @@
   <url>
     <loc>/tags/academic/</loc>
     <lastmod>2020-04-07T16:37:39-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/getting-started/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
